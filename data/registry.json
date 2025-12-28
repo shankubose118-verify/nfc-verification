@@ -1,0 +1,16 @@
+{
+  "VS-OB-001": {
+    "product": "Office Bag",
+    "material": "Cactus-based leather",
+    "edition": "001 of 75",
+    "year": "2025",
+    "status": "verified"
+  },
+  "VS-OB-002": {
+    "product": "Office Bag",
+    "material": "Cactus-based leather",
+    "edition": "002 of 75",
+    "year": "2025",
+    "status": "verified"
+  }
+}
